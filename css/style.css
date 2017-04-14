@@ -1,0 +1,18 @@
+body{
+	background: url(../images/b11.png);
+
+}
+
+canvas {
+    margin: 0 auto;
+        
+}
+
+header{
+	color: #dde8fe;
+	text-align: center;
+	width: 60%;
+margin: 0 auto;
+	-webkit-text-stroke-width: 0.6px;
+-webkit-text-stroke-color: #80be1f;
+}
